@@ -10,8 +10,6 @@
     <td>
       <a href="https://www.linkedin.com/in/rahib-khandaker/">LinkedIn</a>
       <br>
-      <a href="https://github.com/Rahib-Khan/rahib-khan.github.io/blob/main/assets/css/Rahib%20Khandaker%20Resume.pdf">Resume</a>
-      <br>
       <a href="https://github.com/Rahib-Khan">GitHub</a>
     </td>
   </tr>

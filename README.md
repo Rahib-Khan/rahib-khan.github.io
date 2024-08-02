@@ -1,6 +1,9 @@
 
 # Rahib Khandaker
 
+Hello my name Rahib Khandaker, I am a senior at Queens College with a major in Computer Science and minor in Data Analytics.
+One fun fact about me is that I am a massive pro wrestling fan.
+
 <table>
   <tr>
     <td>

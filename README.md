@@ -5,9 +5,9 @@
 <p align="left">
   <img src="assets/css/IMG_2689.jpg" width="100" height="100"/>
   <br>
-  <a href="[Linkedin](https://www.linkedin.com/in/rahib-khandaker/)">Link 1</a>
+  <a href="https://www.linkedin.com/in/rahib-khandaker/">Linkedin</a>
   <br>
-  <a href="[https://example.com/link2](https://github.com/Rahib-Khan)">Link 2</a>
+  <a href="https://github.com/Rahib-Khan">Github</a>
 </p>
 
 

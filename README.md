@@ -22,7 +22,8 @@ One fun fact about me is that I am a massive pro wrestling fan.</p>
 
 
 
-
+### Projects
+----
 [College Database Project](https://github.com/Rahib-Khan/CS331_NG_3/tree/main)
 
 

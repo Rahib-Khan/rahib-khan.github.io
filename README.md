@@ -1,6 +1,5 @@
-# rahib-khan.github.io
 
-## Rahib Khandaker
+# Rahib Khandaker
 
 <table>
   <tr>

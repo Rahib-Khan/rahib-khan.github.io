@@ -21,10 +21,6 @@ One fun fact about me is that I am a massive pro wrestling fan.
   <tr>
     <td>
       <img src="assets/css/IMG_2689.jpg" width="100" height="100"/>
-      <br>
-      <a href="https://www.linkedin.com/in/rahib-khandaker/">LinkedIn</a>
-      <br>
-      <a href="https://github.com/Rahib-Khan">GitHub</a>
     </td>
     <td>
       <p>Hello my name Rahib Khandaker, I am a senior at Queens College with a major in Computer Science and minor in Data Analytics.

@@ -1,6 +1,6 @@
 # rahib-khan.github.io
 
-![Headshot](/rahib-khan.github.io/assets/css/IMG_2689.heic)
+![Headshot](assets/css/IMG_2689.jpg)
 
 [Linkedin](https://www.linkedin.com/in/rahib-khandaker/)
 

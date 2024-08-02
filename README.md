@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>
-      <img src="assets/css/IMG_2689.jpg" width="100" height="100"/>
+      <img src="assets/css/IMG_2689.jpg" width="300" height="300"/>
     </td>
     <td>
       <a href="https://www.linkedin.com/in/rahib-khandaker/">LinkedIn</a>

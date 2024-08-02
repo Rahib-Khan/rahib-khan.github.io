@@ -11,7 +11,7 @@ One fun fact about me is that I am a massive pro wrestling fan.
     </td>
     <td>
       <a Hello my name Rahib Khandaker, I am a senior at Queens College with a major in Computer Science and minor in Data Analytics.
-One fun fact about me is that I am a massive pro wrestling fan.</a>
+One fun fact about me is that I am a massive pro wrestling fan.>
       <br>
       <a href="https://github.com/Rahib-Khan">GitHub</a>
     </td>

@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>
-      <img src="assets/css/IMG_2689.jpg" width="500" height="250"/>
+      <img src="assets/css/IMG_2689.jpg"/>
     </td>
     <td>
       <p>Hello my name Rahib Khandaker, I am a senior at Queens College with a major in Computer Science and minor in Data Analytics.

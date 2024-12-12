@@ -11,7 +11,7 @@
       <p>Hello my name Rahib Khandaker, I am a senior at Queens College with a major in Computer Science and minor in Data Analytics.
 One fun fact about me is that I am a massive pro wrestling fan.</p>
       <br>
-      <a href ="https://drive.google.com/file/d/1THljae_1R3czkrDdiXYBNfHjaZ0ZDaGQ/view?usp=sharing">Resume</a>
+      <a href ="https://drive.google.com/file/d/1qmJjaDm8C6LyB7rIUQUdtU1pc4lkszTH/view?usp=sharing">Resume</a>
     </td>
   </tr>
 </table>

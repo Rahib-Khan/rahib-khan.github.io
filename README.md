@@ -23,6 +23,8 @@ One fun fact about me is that I am a massive pro wrestling fan.</p>
 
 ### Projects
 ----
+[Air Quality Prediction and Analysis](https://ram-aqi.streamlit.app/)
+
 [College Database Project](https://github.com/Rahib-Khan/CS331_NG_3/tree/main)
 
 [CUNY Student Aid Questionnaire, CTP Hacks 2024](https://github.com/Rahib-Khan/CTP_Hack/tree/main)

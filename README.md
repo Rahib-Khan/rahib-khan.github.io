@@ -27,7 +27,7 @@ One fun fact about me is that I am a massive pro wrestling fan.</p>
 
 [NYC Median Income Analysis](https://github.com/Rahib-Khan/NYC_Median_Income/tree/main/Income_project_repo)
 
-[College Database Project](https://github.com/Rahib-Khan/CS331_NG_3/tree/main)
+[College Database Project](https://github.com/Rahib-Khan/Group_3_FromNov11/tree/main/Project3)
 
 [CUNY Student Aid Questionnaire, CTP Hacks 2024](https://github.com/Rahib-Khan/CTP_Hack/tree/main)
 
